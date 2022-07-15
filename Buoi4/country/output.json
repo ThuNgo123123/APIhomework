@@ -1,0 +1,157 @@
+[
+  {
+    "country": "Greenland",
+    "value": 7.6,
+    "adj_value": 11.81952
+  },
+  {
+    "country": "Canada",
+    "value": 144369.9,
+    "adj_value": 224524.0685
+  },
+  {
+    "country": "St Pierre and Miquelon",
+    "value": 3.4,
+    "adj_value": 5.28768
+  },
+  {
+    "country": "Mexico",
+    "value": 62100.4,
+    "adj_value": 96578.54208
+  },
+  {
+    "country": "Guatemala",
+    "value": 1526.8,
+    "adj_value": 2374.47936
+  },
+  {
+    "country": "Belize",
+    "value": 52.1,
+    "adj_value": 81.02592
+  },
+  {
+    "country": "El Salvador",
+    "value": 812.2,
+    "adj_value": 1263.13344
+  },
+  {
+    "country": "Honduras",
+    "value": 1441.2,
+    "adj_value": 2241.35424
+  },
+  {
+    "country": "Nicaragua",
+    "value": 238.8,
+    "adj_value": 371.38176
+  },
+  {
+    "country": "Costa Rica",
+    "value": 1843.2,
+    "adj_value": 2866.54464
+  },
+  {
+    "country": "Panama",
+    "value": 307.1,
+    "adj_value": 477.60192
+  },
+  {
+    "country": "Thailand",
+    "value": 11348.1,
+    "adj_value": 17648.56512
+  },
+  {
+    "country": "Vietnam",
+    "value": 199,
+    "adj_value": 309.4848
+  },
+  {
+    "country": "Laos",
+    "value": 10.2,
+    "adj_value": 15.86304
+  },
+  {
+    "country": "Cambodia",
+    "value": 1766.956953,
+    "adj_value": 2144.378958
+  },
+  {
+    "country": "Malaysia",
+    "value": 33685.15957,
+    "adj_value": 40880.30965
+  },
+  {
+    "country": "Colombia",
+    "value": 3791,
+    "adj_value": 5895.7632
+  },
+  {
+    "country": "Venezuela",
+    "value": 9764,
+    "adj_value": 15184.9728
+  },
+  {
+    "country": "Guyana",
+    "value": 107.4,
+    "adj_value": 167.02848
+  },
+  {
+    "country": "Suriname",
+    "value": 100,
+    "adj_value": 155.52
+  },
+  {
+    "country": "French Guiana",
+    "value": 5.2,
+    "adj_value": 8.08704
+  },
+  {
+    "country": "Ecuador",
+    "value": 1939.7,
+    "adj_value": 3016.62144
+  },
+  {
+    "country": "Peru",
+    "value": 1034.4,
+    "adj_value": 1608.69888
+  },{
+    "country": "Iceland",
+    "value": 232.8,
+    "adj_value": 362.05056
+  },
+  {
+    "country": "Sweden",
+    "value": 6256.4,
+    "adj_value": 9729.95328
+  },
+  {
+    "country": "Svalbard, Jan Mayen Island",
+    "value": 0.2,
+    "adj_value": 0.31104
+  },
+  {
+    "country": "Norway",
+    "value": 3086.7,
+    "adj_value": 4800.43584
+  },
+  {
+    "country": "Finland",
+    "value": 2269.9,
+    "adj_value": 3530.14848
+  },
+  {
+    "country": "Faroe Islands",
+    "value": 8.4,
+    "adj_value": 13.06368
+  },
+  {
+    "country": "Denmark",
+    "value": 1944.9,
+    "adj_value": 3024.70848
+  },
+  {
+    "country": "United Kingdom",
+    "value": 26929.7,
+    "adj_value": 41881.06944
+  }
+]
+   
